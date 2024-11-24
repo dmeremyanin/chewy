@@ -6,6 +6,8 @@
 
 ### Changes
 
+* [#973](https://github.com/toptal/chewy/pull/973): Use suffixed index names by default to prevent alias creation conflicts. ([@dmeremyanin][])
+
 ### Bugs Fixed
 
 * [#964](https://github.com/toptal/chewy/pull/964): Fix `delayed_sidekiq` worker to handle UUID primary keys correctly.
@@ -823,6 +825,7 @@
 [@davekaro]: https://github.com/davekaro
 [@dck]: https://github.com/dck
 [@dm1try]: https://github.com/dm1try
+[@dmeremyanin]: https://github.com/dmeremyanin
 [@dmitry]: https://github.com/dmitry
 [@dnd]: https://github.com/dnd
 [@DNNX]: https://github.com/DNNX
